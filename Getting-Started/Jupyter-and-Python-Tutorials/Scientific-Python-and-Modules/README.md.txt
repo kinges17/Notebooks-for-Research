@@ -1,0 +1,1 @@
+This project is located at: https://github.com/jrjohansson/scientific-python-lectures

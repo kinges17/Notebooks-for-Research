@@ -1,0 +1,1 @@
+This project is located at: https://github.com/twiecki/pymc3_talk.git

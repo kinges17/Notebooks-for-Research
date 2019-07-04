@@ -1,0 +1,1 @@
+These projects are located at: https://github.com/plotly/IPython-plotly
