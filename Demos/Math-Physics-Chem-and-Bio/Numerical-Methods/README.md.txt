@@ -1,0 +1,1 @@
+This project can be located at: https://github.com/numerical-mooc/numerical-mooc.git

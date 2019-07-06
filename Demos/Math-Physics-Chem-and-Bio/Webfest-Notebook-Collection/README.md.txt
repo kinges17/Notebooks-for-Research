@@ -1,0 +1,1 @@
+This collection is located at: https://github.com/mazurov/webfest2013.git

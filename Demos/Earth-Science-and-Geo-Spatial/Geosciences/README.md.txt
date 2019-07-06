@@ -1,0 +1,1 @@
+This collection can be located at: https://github.com/koldunovn/python_for_geosciences.git

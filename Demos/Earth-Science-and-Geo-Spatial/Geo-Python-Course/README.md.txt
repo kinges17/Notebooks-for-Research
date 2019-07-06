@@ -1,0 +1,1 @@
+This course can be found at: https://github.com/geo-python/2018.git
