@@ -1,1 +1,0 @@
-This project can be found at: https://github.com/ipython-books/cookbook-2nd-code.git

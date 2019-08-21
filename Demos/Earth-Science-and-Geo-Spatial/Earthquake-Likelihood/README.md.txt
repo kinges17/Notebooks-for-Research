@@ -1,1 +1,0 @@
-This project is located at: https://github.com/cossatot/lanf_earthquake_likelihood

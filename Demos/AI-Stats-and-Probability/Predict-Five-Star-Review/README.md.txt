@@ -1,1 +1,0 @@
-This project is located at: https://github.com/xun-tang/pyladies_jupyter_demo.git

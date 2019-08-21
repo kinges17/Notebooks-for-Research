@@ -1,1 +1,0 @@
-This project is located at: https://github.com/rasbt/algorithms_in_ipython_notebooks

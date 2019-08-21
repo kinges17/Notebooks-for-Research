@@ -1,1 +1,0 @@
-This project can be located at: https://github.com/vincentarelbundock/Reinhart-Rogoff.git

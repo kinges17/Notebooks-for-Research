@@ -1,1 +1,0 @@
-This project is located at: https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition

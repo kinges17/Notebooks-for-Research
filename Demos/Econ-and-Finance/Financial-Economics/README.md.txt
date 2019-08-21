@@ -1,1 +1,0 @@
-This project can be found at: https://github.com/rsvp/fecon235.git

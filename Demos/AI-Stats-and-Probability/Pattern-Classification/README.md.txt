@@ -1,1 +1,0 @@
-This project is located at: https://github.com/rasbt/pattern_classification

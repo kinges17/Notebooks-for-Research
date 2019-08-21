@@ -1,1 +1,0 @@
-This course can be found at: https://github.com/justmarkham/DAT4.git

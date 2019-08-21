@@ -1,1 +1,0 @@
-This project is located at: https://github.com/hopelessoptimism/happy-healthy-hungry

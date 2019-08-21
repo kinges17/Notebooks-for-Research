@@ -1,1 +1,0 @@
-This collection can be found at: https://github.com/Carreau/posts.git
