@@ -1,4 +1,4 @@
-# Jupyter-Project
+# Notebooks for Research
 
 This project is intended to serve as a guide for notebook tools (Jupyter, Azure as well as Binder). 
 
